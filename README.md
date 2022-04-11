@@ -32,6 +32,7 @@ This project is a place for me to note down the various tools, guides, resources
 - https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet
 - https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7
 - https://www.wizer-training.com/blog/security-cheatsheet-for-it-admins-when-installing-new-software
+- https://kashz.gitbook.io/kashz-jewels
 
 ## Conferences
 - https://atlseccon.com
