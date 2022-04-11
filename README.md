@@ -13,6 +13,12 @@ This project is a place for me to note down the various tools, guides, resources
 
 ## Training and Education
 - https://pentesterlab.com/
+- https://blueteamlabs.online/
+- https://securityblue.team/
+- https://academy.tcm-sec.com/
+
+### Study Guides and Cheatsheets
+- https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet
 
 ## Conferences
 - https://atlseccon.com
