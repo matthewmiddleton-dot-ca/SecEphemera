@@ -21,12 +21,14 @@ This project is a place for me to note down the various tools, guides, resources
 
 ## Honeypots
 - https://malwaremily.medium.com/honeypots-explained-40ceb621d8a
+- https://www.microsolved.com/honeypoint
 
 ## Hardware Projects
 - https://infosecwriteups.com/make-usb-rubber-ducky-with-less-than-3-fa72dac9e4de
 
 ## OSINT
-### Google Dorks
+
+## Google Dorks
 - https://infosecwriteups.com/finding-vulnerable-info-using-google-dorks-ethical-hacking-23f358117ceb
 
 ## Training and Education
@@ -35,12 +37,14 @@ This project is a place for me to note down the various tools, guides, resources
 - https://securityblue.team/
 - https://academy.tcm-sec.com/
 - https://blueteamlabs.online/
+- https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-systems-and-network-cyber-security
 
 ### Study Guides and Cheatsheets
 - https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet
 - https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7
 - https://www.wizer-training.com/blog/security-cheatsheet-for-it-admins-when-installing-new-software
 - https://kashz.gitbook.io/kashz-jewels
+- https://kb.cybermentordojo.com/knowledge-base/home-lab-projects-to-boost-your-cv/
 
 ## Conferences
 - https://atlseccon.com
