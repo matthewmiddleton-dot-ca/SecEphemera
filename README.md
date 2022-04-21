@@ -19,14 +19,22 @@ This project is a place for me to note down the various tools, guides, resources
 - https://github.com/aels/subdirectories-discover
 - https://github.com/iamthefrogy/frogy
 
+## Honeypots
+- https://malwaremily.medium.com/honeypots-explained-40ceb621d8a
+
 ## Hardware Projects
 - https://infosecwriteups.com/make-usb-rubber-ducky-with-less-than-3-fa72dac9e4de
+
+## OSINT
+### Google Dorks
+- https://infosecwriteups.com/finding-vulnerable-info-using-google-dorks-ethical-hacking-23f358117ceb
 
 ## Training and Education
 - https://pentesterlab.com/
 - https://blueteamlabs.online/
 - https://securityblue.team/
 - https://academy.tcm-sec.com/
+- https://blueteamlabs.online/
 
 ### Study Guides and Cheatsheets
 - https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet
