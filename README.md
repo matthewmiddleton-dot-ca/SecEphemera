@@ -41,6 +41,7 @@ This project is a place for me to note down the various tools, guides, resources
 ### Secure Coding
 - https://github.com/awslabs/git-secrets
 - https://github.com/trufflesecurity/trufflehog
+- https://github.com/agrawalsmart7/scodescanner
 
 ### Threat Intelligence
 - https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a
@@ -76,6 +77,7 @@ This project is a place for me to note down the various tools, guides, resources
 - https://atlseccon.com
 - https://www.bsidesstjohns.com
 - https://blueteamcon.com/
+- https://hardwear.io/
 
 ## Resource Listings
 - https://github.com/enaqx/awesome-pentest#tools
