@@ -75,6 +75,7 @@ This project is a place for me to note down the various tools, guides, resources
 ## Conferences
 - https://atlseccon.com
 - https://www.bsidesstjohns.com
+- https://blueteamcon.com/
 
 ## Resource Listings
 - https://github.com/enaqx/awesome-pentest#tools
